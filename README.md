@@ -1,3 +1,3 @@
 # SimplexNoise (NOT MINE)
-SimplexNoise for Java
+SimplexNoise for Java  
 Original (https://github.com/KdotJPG/OpenSimplex2)
